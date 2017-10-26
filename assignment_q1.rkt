@@ -8,4 +8,4 @@
 
 ;list is just a function that uses the cons function and makes it easier to
 ;create lists rather than calling cons each time
-;
+;append can only take lists as arguments, can't take atoms
